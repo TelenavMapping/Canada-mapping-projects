@@ -1,0 +1,59 @@
+1	Toronto
+2	Montreal
+3	Vancouver
+4	Calgary
+5	Ottawa–Gatineau
+6	Edmonton
+7	Winnipeg
+8	Quebec City
+9	Hamilton
+10	Kitchener--Cambridge--Waterloo
+11	London
+12	Victoria
+13	Halifax
+14	Oshawa
+15	Windsor
+16	Saskatoon
+17	St. Catharines–Niagara
+18	Regina
+19	St. John's
+20	Kelowna
+21	Barrie
+22	Sherbrooke
+23	Guelph
+24	Abbotsford
+25	Kingston
+26	Kanata
+27	Trois-Rivières
+28	Moncton
+29	Chicoutimi-Jonquière
+30	Milton
+31	Red Deer
+32	Brantford
+33	Thunder Bay
+34	White Rock
+35	Nanaimo
+36	Greater Sudbury
+37	Lethbridge
+38	Saint-Jean-sur-Richelieu
+39	Peterborough
+40	Kamloops
+41	Saint-Jérôme
+42	Chilliwack
+43	Sarnia
+44	Châteauguay
+45	Drummondville
+46	Belleville
+47	Fort McMurray
+48	Sault Ste. Marie
+49	Prince George
+50	Medicine Hat
+51	Welland - Pelham
+52	Grande Prairie
+53	Airdrie
+54	Granby
+55	Fredericton
+56	Saint John
+57	Beloeil
+58	North Bay
+59	Saint-Hyacinthe
